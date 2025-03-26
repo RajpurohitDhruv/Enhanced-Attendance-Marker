@@ -146,7 +146,7 @@ The **Enhanced Attendance System** is a robust, open-source Python application d
 ## File Structure
 1. **Project Structure** :
    ```text
-   hotspot-attendance-system/
+   Enhanced-attendance-system/
     ├── attendance.py          # Main script for attendance tracking
     ├── add_employee.py        # Script for registering employees
     ├── requirements.txt       # List of Python dependencies
