@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python Version](https://img.shields.io/badge/Python-3.10+-brightgreen.svg)
 
-The **Enhanced Attendance System** is a robust, open-source Python application designed to automate employee attendance tracking for small teams or organizations. By integrating facial recognition, one-time password (OTP) verification, and Wi-Fi hotspot connectivity, it ensures secure and efficient monitoring of employee presence. The system uses a designated hotspot ("AttendanceHotspot") to track attendance, logs data to CSV files, sends real-time email/SMS notifications, and generates daily reports.
+The **Enhanced Attendance Marker** is a robust, open-source Python application designed to automate employee attendance tracking for small teams or organizations. By integrating facial recognition, one-time password (OTP) verification, and Wi-Fi hotspot connectivity, it ensures secure and efficient monitoring of employee presence. The system uses a designated hotspot ("AttendanceHotspot") to track attendance, logs data to CSV files, sends real-time email/SMS notifications, and generates daily reports.
 
 ---
 
@@ -65,8 +65,8 @@ The **Enhanced Attendance System** is a robust, open-source Python application d
 
 1. **Clone the Repository** :
    ```bash
-   git clone https://github.com/RajpurohitDhruv/hotspot-attendance-system.git
-    cd hotspot-attendance-system
+   git clone https://github.com/RajpurohitDhruv/Enhanced-Attendance-Marker.git
+    cd Enhanced-Attendance-Marker
 2. **Create a virtual Environment** :
    ```bash
    python -m venv venv
@@ -146,7 +146,7 @@ The **Enhanced Attendance System** is a robust, open-source Python application d
 ## File Structure
 1. **Project Structure** :
    ```text
-   Enhanced-attendance-marker/
+   Enhanced-Attendance-Marker/
     ├── attendance.py          # Main script for attendance tracking
     ├── add_employee.py        # Script for registering employees
     ├── requirements.txt       # List of Python dependencies
@@ -204,7 +204,7 @@ This project is licensed under the MIT License - see the LICENSE file
 
 **Github** : RajpurohitDhruv
 
-**Issues** : https://github.com/RajpurohitDhruv/hotspot-attendance-system/issues
+**Issues** : https://github.com/RajpurohitDhruv/hotspot-Attendance-Marker/issues
 
 ## Acknowledgements
 1. **Thanks** : To the creators of face_recognition, twilio and pyotp
