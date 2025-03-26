@@ -1,4 +1,4 @@
-# Enhanced-Attendance-Management
+# Enhanced-Attendance-Marker
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python Version](https://img.shields.io/badge/Python-3.10+-brightgreen.svg)
@@ -146,7 +146,7 @@ The **Enhanced Attendance System** is a robust, open-source Python application d
 ## File Structure
 1. **Project Structure** :
    ```text
-   Enhanced-attendance-system/
+   Enhanced-attendance-marker/
     ├── attendance.py          # Main script for attendance tracking
     ├── add_employee.py        # Script for registering employees
     ├── requirements.txt       # List of Python dependencies
