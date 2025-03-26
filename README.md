@@ -204,7 +204,7 @@ This project is licensed under the MIT License - see the LICENSE file
 
 **Github** : RajpurohitDhruv
 
-**Issues** : https://github.com/RajpurohitDhruv/hotspot-Attendance-Marker/issues
+**Issues** : https://github.com/RajpurohitDhruv/Enhanced-Attendance-Marker/issues
 
 ## Acknowledgements
 1. **Thanks** : To the creators of face_recognition, twilio and pyotp
